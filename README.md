@@ -1,8 +1,1 @@
-Hello welcome to phoenix 
-
-
-
-
-
-# PhoenixOfficial
-PhoenixOfficial
+welcome to phoenix
